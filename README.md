@@ -1,2 +1,1 @@
-# IA-Haskell
-Projeto da disciplina de Paradigmas de Programação UFABC. 
+# paradigmas-2021-q2-projeto-final-GuiFG
